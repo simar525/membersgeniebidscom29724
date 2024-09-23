@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://geniebids.myconnected.app/$1"
+ }
+  ]
+}
